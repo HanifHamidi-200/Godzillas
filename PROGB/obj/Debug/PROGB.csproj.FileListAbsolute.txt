@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.Form1.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.fSub1.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.fSub2.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.fSub3.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.fSub4.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.Properties.Resources.resources
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PROGB\bin\Debug\PROGB.exe.config
+C:\Users\hanif\source\repos\PROGB\bin\Debug\PROGB.exe
+C:\Users\hanif\source\repos\PROGB\bin\Debug\PROGB.pdb
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.exe
+C:\Users\hanif\source\repos\PROGB\obj\Debug\PROGB.pdb

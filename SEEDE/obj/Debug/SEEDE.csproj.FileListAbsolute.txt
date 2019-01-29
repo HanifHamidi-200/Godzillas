@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\SEEDE\bin\Debug\SEEDE.exe.config
+C:\Users\hanif\source\repos\SEEDE\bin\Debug\SEEDE.exe
+C:\Users\hanif\source\repos\SEEDE\bin\Debug\SEEDE.pdb
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.Form1.resources
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.Properties.Resources.resources
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.exe
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.pdb
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.fSub1.resources
+C:\Users\hanif\source\repos\SEEDE\obj\Debug\SEEDE.fSub2.resources

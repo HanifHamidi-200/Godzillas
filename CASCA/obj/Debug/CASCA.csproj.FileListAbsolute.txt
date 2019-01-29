@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.Form1.resources
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.Properties.Resources.resources
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CASCA\bin\Debug\CASCA.exe.config
+C:\Users\hanif\source\repos\CASCA\bin\Debug\CASCA.exe
+C:\Users\hanif\source\repos\CASCA\bin\Debug\CASCA.pdb
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.exe
+C:\Users\hanif\source\repos\CASCA\obj\Debug\CASCA.pdb

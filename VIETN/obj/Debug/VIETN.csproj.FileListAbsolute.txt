@@ -1,0 +1,16 @@
+C:\Users\hanif\source\repos\VIETN\bin\Debug\VIETN.exe.config
+C:\Users\hanif\source\repos\VIETN\bin\Debug\VIETN.exe
+C:\Users\hanif\source\repos\VIETN\bin\Debug\VIETN.pdb
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.Form1.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub1.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub2.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub3.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub4.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub5.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.fSub6.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.Properties.Resources.resources
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.exe
+C:\Users\hanif\source\repos\VIETN\obj\Debug\VIETN.pdb

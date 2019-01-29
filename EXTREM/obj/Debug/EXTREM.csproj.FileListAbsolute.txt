@@ -1,0 +1,15 @@
+C:\Users\hanif\source\repos\EXTREM\bin\Debug\EXTREM.exe.config
+C:\Users\hanif\source\repos\EXTREM\bin\Debug\EXTREM.exe
+C:\Users\hanif\source\repos\EXTREM\bin\Debug\EXTREM.pdb
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.Form1.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.fSub1.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.fSub2.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.fSub3.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.fSub4.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.fSub5.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.Properties.Resources.resources
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.exe
+C:\Users\hanif\source\repos\EXTREM\obj\Debug\EXTREM.pdb

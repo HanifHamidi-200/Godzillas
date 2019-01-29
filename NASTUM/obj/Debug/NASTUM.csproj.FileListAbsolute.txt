@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\NASTUM\bin\Debug\NASTUM.exe.config
+C:\Users\hanif\source\repos\NASTUM\bin\Debug\NASTUM.exe
+C:\Users\hanif\source\repos\NASTUM\bin\Debug\NASTUM.pdb
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.Form1.resources
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.fSub1.resources
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.fSub2.resources
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.fSub3.resources
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.Properties.Resources.resources
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.exe
+C:\Users\hanif\source\repos\NASTUM\obj\Debug\NASTUM.pdb

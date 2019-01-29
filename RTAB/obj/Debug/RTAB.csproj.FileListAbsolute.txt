@@ -1,0 +1,12 @@
+C:\Users\hanif\source\repos\RTAB\bin\Debug\RTAB.exe.config
+C:\Users\hanif\source\repos\RTAB\bin\Debug\RTAB.exe
+C:\Users\hanif\source\repos\RTAB\bin\Debug\RTAB.pdb
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.Form1.resources
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.Properties.Resources.resources
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.exe
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.pdb
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.fSub1.resources
+C:\Users\hanif\source\repos\RTAB\obj\Debug\RTAB.fSub2.resources
