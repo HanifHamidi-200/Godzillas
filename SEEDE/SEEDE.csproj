@@ -67,6 +67,18 @@
     <Compile Include="fSub2.Designer.cs">
       <DependentUpon>fSub2.cs</DependentUpon>
     </Compile>
+    <Compile Include="fSub3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub3.Designer.cs">
+      <DependentUpon>fSub3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSub4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSub4.Designer.cs">
+      <DependentUpon>fSub4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -77,6 +89,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fSub2.resx">
       <DependentUpon>fSub2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub3.resx">
+      <DependentUpon>fSub3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub4.resx">
+      <DependentUpon>fSub4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

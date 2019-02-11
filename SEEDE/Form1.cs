@@ -29,5 +29,19 @@ namespace SEEDE
             _dlg.ShowDialog();
 
         }
+
+        private void BtnOpen3_Click(object sender, EventArgs e)
+        {
+            fSub3 _dlg = new fSub3();
+            _dlg.ShowDialog();
+
+        }
+
+        private void BtnOpen4_Click(object sender, EventArgs e)
+        {
+            fSub4 _dlg = new fSub4();
+            _dlg.ShowDialog();
+
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.Form1.resources
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.Properties.Resources.resources
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\Godzillas\UDECP\bin\Debug\UDECP.exe.config
+C:\Users\hanif\Desktop\Godzillas\UDECP\bin\Debug\UDECP.exe
+C:\Users\hanif\Desktop\Godzillas\UDECP\bin\Debug\UDECP.pdb
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.exe
+C:\Users\hanif\Desktop\Godzillas\UDECP\obj\Debug\UDECP.pdb
