@@ -29,5 +29,17 @@ namespace RTAB
             _dlg.ShowDialog();
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOpen3_Click(object sender, EventArgs e)
+        {
+            fSub3 _dlg = new fSub3();
+            _dlg.ShowDialog();
+
+        }
     }
 }

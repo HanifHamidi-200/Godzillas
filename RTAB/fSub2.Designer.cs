@@ -28,178 +28,465 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.btn1 = new System.Windows.Forms.Button();
+            this.btn2 = new System.Windows.Forms.Button();
+            this.fra1 = new System.Windows.Forms.GroupBox();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.fra2 = new System.Windows.Forms.GroupBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtDate = new System.Windows.Forms.TextBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txt1 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txt2 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txt3 = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txt4 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.lst1 = new System.Windows.Forms.ListBox();
             this.lst2 = new System.Windows.Forms.ListBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.lst3 = new System.Windows.Forms.ListBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.btnAdd1 = new System.Windows.Forms.Button();
-            this.btnAdd2 = new System.Windows.Forms.Button();
-            this.btnAdd3 = new System.Windows.Forms.Button();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lstViewer = new System.Windows.Forms.ListBox();
-            this.dlg1 = new System.Windows.Forms.OpenFileDialog();
+            this.btnRLast = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
+            this.btnView = new System.Windows.Forms.Button();
+            this.fra1.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.fra2.SuspendLayout();
             this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // label1
+            // btn1
             // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Yellow;
-            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label1.Location = new System.Drawing.Point(176, 45);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 15);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "PL/G";
+            this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btn1.Location = new System.Drawing.Point(12, 34);
+            this.btn1.Name = "btn1";
+            this.btn1.Size = new System.Drawing.Size(102, 99);
+            this.btn1.TabIndex = 0;
+            this.btn1.Text = "Versatile\r\nEnvironment";
+            this.btn1.UseVisualStyleBackColor = false;
+            this.btn1.Click += new System.EventHandler(this.Btn1_Click);
             // 
-            // lst1
+            // btn2
             // 
-            this.lst1.FormattingEnabled = true;
-            this.lst1.Location = new System.Drawing.Point(176, 74);
-            this.lst1.Name = "lst1";
-            this.lst1.Size = new System.Drawing.Size(102, 199);
-            this.lst1.TabIndex = 1;
-            this.lst1.Click += new System.EventHandler(this.Lst1_Click);
-            this.lst1.SelectedIndexChanged += new System.EventHandler(this.Lst1_SelectedIndexChanged);
+            this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btn2.Location = new System.Drawing.Point(12, 139);
+            this.btn2.Name = "btn2";
+            this.btn2.Size = new System.Drawing.Size(102, 99);
+            this.btn2.TabIndex = 1;
+            this.btn2.Text = "ASIMO";
+            this.btn2.UseVisualStyleBackColor = false;
+            this.btn2.Click += new System.EventHandler(this.Btn2_Click);
             // 
-            // lst2
+            // fra1
             // 
-            this.lst2.FormattingEnabled = true;
-            this.lst2.Location = new System.Drawing.Point(301, 74);
-            this.lst2.Name = "lst2";
-            this.lst2.Size = new System.Drawing.Size(102, 199);
-            this.lst2.TabIndex = 3;
-            this.lst2.Click += new System.EventHandler(this.Lst2_Click);
+            this.fra1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.fra1.Controls.Add(this.tableLayoutPanel1);
+            this.fra1.Controls.Add(this.listBox1);
+            this.fra1.Location = new System.Drawing.Point(146, 34);
+            this.fra1.Name = "fra1";
+            this.fra1.Size = new System.Drawing.Size(462, 462);
+            this.fra1.TabIndex = 2;
+            this.fra1.TabStop = false;
+            this.fra1.Text = "VersatileEnvironment";
+            this.fra1.Visible = false;
             // 
-            // label2
+            // tableLayoutPanel1
             // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Yellow;
-            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label2.Location = new System.Drawing.Point(301, 45);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "GL/S";
+            this.tableLayoutPanel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.tableLayoutPanel1.ColumnCount = 2;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.Controls.Add(this.label5, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox5, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.label4, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox4, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.label3, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox3, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.label2, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox2, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox1, 1, 0);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(43, 173);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 5;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 46.46465F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 53.53535F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 52F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 49F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 34F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(339, 239);
+            this.tableLayoutPanel1.TabIndex = 1;
             // 
-            // lst3
+            // label5
             // 
-            this.lst3.FormattingEnabled = true;
-            this.lst3.Location = new System.Drawing.Point(428, 74);
-            this.lst3.Name = "lst3";
-            this.lst3.Size = new System.Drawing.Size(102, 199);
-            this.lst3.TabIndex = 5;
-            this.lst3.Click += new System.EventHandler(this.Lst3_Click);
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Yellow;
+            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label5.Location = new System.Drawing.Point(3, 204);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(160, 15);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "SpeedupLandObeyance_logger";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(172, 207);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(164, 20);
+            this.textBox5.TabIndex = 9;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Yellow;
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label4.Location = new System.Drawing.Point(3, 155);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(112, 15);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "FaceImagingSoftware";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(172, 158);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(164, 20);
+            this.textBox4.TabIndex = 7;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Yellow;
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label3.Location = new System.Drawing.Point(428, 45);
+            this.label3.Location = new System.Drawing.Point(3, 103);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(36, 15);
+            this.label3.Size = new System.Drawing.Size(103, 15);
             this.label3.TabIndex = 4;
-            this.label3.Text = "SR/T";
+            this.label3.Text = "SpeechRecognition";
             // 
-            // btnAdd1
+            // textBox3
             // 
-            this.btnAdd1.BackColor = System.Drawing.Color.Lime;
-            this.btnAdd1.Location = new System.Drawing.Point(12, 74);
-            this.btnAdd1.Name = "btnAdd1";
-            this.btnAdd1.Size = new System.Drawing.Size(139, 34);
-            this.btnAdd1.TabIndex = 6;
-            this.btnAdd1.Text = "Addto 1";
-            this.btnAdd1.UseVisualStyleBackColor = false;
-            this.btnAdd1.Click += new System.EventHandler(this.BtnAdd1_Click);
+            this.textBox3.Location = new System.Drawing.Point(172, 106);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(164, 20);
+            this.textBox3.TabIndex = 5;
             // 
-            // btnAdd2
+            // label2
             // 
-            this.btnAdd2.BackColor = System.Drawing.Color.Lime;
-            this.btnAdd2.Location = new System.Drawing.Point(12, 114);
-            this.btnAdd2.Name = "btnAdd2";
-            this.btnAdd2.Size = new System.Drawing.Size(139, 34);
-            this.btnAdd2.TabIndex = 7;
-            this.btnAdd2.Text = "Addto 2";
-            this.btnAdd2.UseVisualStyleBackColor = false;
-            this.btnAdd2.Click += new System.EventHandler(this.BtnAdd2_Click);
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Yellow;
+            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label2.Location = new System.Drawing.Point(3, 48);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(121, 15);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "PositionTrackingControl";
             // 
-            // btnAdd3
+            // textBox2
             // 
-            this.btnAdd3.BackColor = System.Drawing.Color.Lime;
-            this.btnAdd3.Location = new System.Drawing.Point(12, 154);
-            this.btnAdd3.Name = "btnAdd3";
-            this.btnAdd3.Size = new System.Drawing.Size(139, 34);
-            this.btnAdd3.TabIndex = 8;
-            this.btnAdd3.Text = "Addto 3";
-            this.btnAdd3.UseVisualStyleBackColor = false;
-            this.btnAdd3.Click += new System.EventHandler(this.BtnAdd3_Click);
+            this.textBox2.Location = new System.Drawing.Point(172, 51);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(164, 20);
+            this.textBox2.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Yellow;
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label1.Location = new System.Drawing.Point(3, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(126, 15);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "ArmLegHead_movement";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(172, 3);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(164, 20);
+            this.textBox1.TabIndex = 1;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Items.AddRange(new object[] {
+            "The VersatileEnvironment that comes with ProgrammingRobots",
+            "concises the programmer to subdue to a NewerInterface",
+            "capable of Reticulating the TestProcesses"});
+            this.listBox1.Location = new System.Drawing.Point(39, 46);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(343, 108);
+            this.listBox1.TabIndex = 0;
+            // 
+            // fra2
+            // 
+            this.fra2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.fra2.Controls.Add(this.groupBox2);
+            this.fra2.Controls.Add(this.groupBox1);
+            this.fra2.Controls.Add(this.txtDate);
+            this.fra2.Controls.Add(this.label6);
+            this.fra2.Location = new System.Drawing.Point(304, 94);
+            this.fra2.Name = "fra2";
+            this.fra2.Size = new System.Drawing.Size(462, 532);
+            this.fra2.TabIndex = 3;
+            this.fra2.TabStop = false;
+            this.fra2.Text = "ASIMO";
+            this.fra2.Visible = false;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Yellow;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.Location = new System.Drawing.Point(20, 33);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(41, 15);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Date =";
+            // 
+            // txtDate
+            // 
+            this.txtDate.Location = new System.Drawing.Point(81, 33);
+            this.txtDate.Name = "txtDate";
+            this.txtDate.Size = new System.Drawing.Size(212, 20);
+            this.txtDate.TabIndex = 2;
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.groupBox1.Controls.Add(this.lstViewer);
-            this.groupBox1.Location = new System.Drawing.Point(564, 45);
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.groupBox1.Controls.Add(this.btnAdd);
+            this.groupBox1.Controls.Add(this.txt4);
+            this.groupBox1.Controls.Add(this.label10);
+            this.groupBox1.Controls.Add(this.txt3);
+            this.groupBox1.Controls.Add(this.label9);
+            this.groupBox1.Controls.Add(this.txt2);
+            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.txt1);
+            this.groupBox1.Controls.Add(this.label7);
+            this.groupBox1.Location = new System.Drawing.Point(20, 77);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(186, 299);
-            this.groupBox1.TabIndex = 9;
+            this.groupBox1.Size = new System.Drawing.Size(422, 176);
+            this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Viewer";
+            this.groupBox1.Text = "NewRobot";
             // 
-            // lstViewer
+            // txt1
             // 
-            this.lstViewer.FormattingEnabled = true;
-            this.lstViewer.Location = new System.Drawing.Point(23, 29);
-            this.lstViewer.Name = "lstViewer";
-            this.lstViewer.Size = new System.Drawing.Size(143, 238);
-            this.lstViewer.TabIndex = 6;
+            this.txt1.Location = new System.Drawing.Point(121, 25);
+            this.txt1.Name = "txt1";
+            this.txt1.Size = new System.Drawing.Size(212, 20);
+            this.txt1.TabIndex = 4;
             // 
-            // dlg1
+            // label7
             // 
-            this.dlg1.DefaultExt = "txt";
-            this.dlg1.FileName = "data1.txt";
-            this.dlg1.Filter = "TextFiles (*.txt)|*.txt|AllFiles (*.*)|*.*";
-            this.dlg1.FilterIndex = 0;
-            this.dlg1.Title = "Open TextFile";
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Yellow;
+            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label7.Location = new System.Drawing.Point(25, 28);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(46, 15);
+            this.label7.TabIndex = 3;
+            this.label7.Text = "Name =";
+            // 
+            // txt2
+            // 
+            this.txt2.Location = new System.Drawing.Point(121, 51);
+            this.txt2.Name = "txt2";
+            this.txt2.Size = new System.Drawing.Size(212, 20);
+            this.txt2.TabIndex = 6;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.Yellow;
+            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label8.Location = new System.Drawing.Point(25, 54);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(86, 15);
+            this.label8.TabIndex = 5;
+            this.label8.Text = "VersionControl =";
+            // 
+            // txt3
+            // 
+            this.txt3.Location = new System.Drawing.Point(121, 77);
+            this.txt3.Name = "txt3";
+            this.txt3.Size = new System.Drawing.Size(212, 20);
+            this.txt3.TabIndex = 8;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.Yellow;
+            this.label9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label9.Location = new System.Drawing.Point(25, 80);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(75, 15);
+            this.label9.TabIndex = 7;
+            this.label9.Text = "WhatItDoes =";
+            // 
+            // txt4
+            // 
+            this.txt4.Location = new System.Drawing.Point(121, 103);
+            this.txt4.Name = "txt4";
+            this.txt4.Size = new System.Drawing.Size(212, 20);
+            this.txt4.TabIndex = 10;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.Yellow;
+            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label10.Location = new System.Drawing.Point(25, 106);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(76, 15);
+            this.label10.TabIndex = 9;
+            this.label10.Text = "Capacity/cc =";
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.BackColor = System.Drawing.Color.Yellow;
+            this.btnAdd.Location = new System.Drawing.Point(349, 25);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(67, 62);
+            this.btnAdd.TabIndex = 11;
+            this.btnAdd.Text = "ADD";
+            this.btnAdd.UseVisualStyleBackColor = false;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.groupBox2.Controls.Add(this.btnView);
+            this.groupBox2.Controls.Add(this.btnClear);
+            this.groupBox2.Controls.Add(this.btnRLast);
+            this.groupBox2.Controls.Add(this.lst2);
+            this.groupBox2.Controls.Add(this.lst1);
+            this.groupBox2.Location = new System.Drawing.Point(20, 268);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(422, 227);
+            this.groupBox2.TabIndex = 4;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "View";
+            // 
+            // lst1
+            // 
+            this.lst1.FormattingEnabled = true;
+            this.lst1.Location = new System.Drawing.Point(25, 24);
+            this.lst1.Name = "lst1";
+            this.lst1.Size = new System.Drawing.Size(97, 173);
+            this.lst1.TabIndex = 0;
+            // 
+            // lst2
+            // 
+            this.lst2.FormattingEnabled = true;
+            this.lst2.Location = new System.Drawing.Point(139, 24);
+            this.lst2.Name = "lst2";
+            this.lst2.Size = new System.Drawing.Size(194, 173);
+            this.lst2.TabIndex = 1;
+            // 
+            // btnRLast
+            // 
+            this.btnRLast.BackColor = System.Drawing.Color.Yellow;
+            this.btnRLast.Location = new System.Drawing.Point(349, 24);
+            this.btnRLast.Name = "btnRLast";
+            this.btnRLast.Size = new System.Drawing.Size(67, 33);
+            this.btnRLast.TabIndex = 12;
+            this.btnRLast.Text = "RLast";
+            this.btnRLast.UseVisualStyleBackColor = false;
+            // 
+            // btnClear
+            // 
+            this.btnClear.BackColor = System.Drawing.Color.Yellow;
+            this.btnClear.Location = new System.Drawing.Point(349, 63);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(67, 33);
+            this.btnClear.TabIndex = 13;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = false;
+            // 
+            // btnView
+            // 
+            this.btnView.BackColor = System.Drawing.Color.Yellow;
+            this.btnView.Location = new System.Drawing.Point(349, 102);
+            this.btnView.Name = "btnView";
+            this.btnView.Size = new System.Drawing.Size(67, 33);
+            this.btnView.TabIndex = 14;
+            this.btnView.Text = "View";
+            this.btnView.UseVisualStyleBackColor = false;
             // 
             // fSub2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 368);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.btnAdd3);
-            this.Controls.Add(this.btnAdd2);
-            this.Controls.Add(this.btnAdd1);
-            this.Controls.Add(this.lst3);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.lst2);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.lst1);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(800, 620);
+            this.Controls.Add(this.fra2);
+            this.Controls.Add(this.fra1);
+            this.Controls.Add(this.btn2);
+            this.Controls.Add(this.btn1);
             this.Name = "fSub2";
-            this.Text = "Viewer";
+            this.Text = "ASIMO";
+            this.Load += new System.EventHandler(this.FSub2_Load);
+            this.fra1.ResumeLayout(false);
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
+            this.fra2.ResumeLayout(false);
+            this.fra2.PerformLayout();
             this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ListBox lst1;
-        private System.Windows.Forms.ListBox lst2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ListBox lst3;
+        private System.Windows.Forms.Button btn1;
+        private System.Windows.Forms.Button btn2;
+        private System.Windows.Forms.GroupBox fra1;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.GroupBox fra2;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button btnAdd1;
-        private System.Windows.Forms.Button btnAdd2;
-        private System.Windows.Forms.Button btnAdd3;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button btnView;
+        private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnRLast;
+        private System.Windows.Forms.ListBox lst2;
+        private System.Windows.Forms.ListBox lst1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ListBox lstViewer;
-        private System.Windows.Forms.OpenFileDialog dlg1;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.TextBox txt4;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox txt3;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox txt2;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txt1;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtDate;
+        private System.Windows.Forms.Label label6;
     }
 }
