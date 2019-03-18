@@ -1,0 +1,15 @@
+C:\Users\hanif\source\repos\PLTCT\PLTCT\bin\Debug\PLTCT.exe.config
+C:\Users\hanif\source\repos\PLTCT\PLTCT\bin\Debug\PLTCT.exe
+C:\Users\hanif\source\repos\PLTCT\PLTCT\bin\Debug\PLTCT.pdb
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.Form1.resources
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.Properties.Resources.resources
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.exe
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.pdb
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.fSub1.resources
+C:\Users\hanif\source\repos\PLTCT\PLTCT\bin\Debug\PLTCT.exe.manifest
+C:\Users\hanif\source\repos\PLTCT\PLTCT\bin\Debug\PLTCT.application
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.exe.manifest
+C:\Users\hanif\source\repos\PLTCT\PLTCT\obj\Debug\PLTCT.application

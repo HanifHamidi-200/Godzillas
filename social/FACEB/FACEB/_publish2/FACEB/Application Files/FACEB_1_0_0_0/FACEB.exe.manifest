@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FACEB.exe" version="1.0.0.0" publicKeyToken="39a08ca04310ef02" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F BoulderLogic.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FACEB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FACEB.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FACEB.exe" size="58336">
+      <assemblyIdentity name="FACEB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OEGKsnq8GehFC73t8yEm8frkRlON+aJ1wgEP/YHUIbA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="F BoulderLogic.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>piNGcUr+LugKtl1hhLr7MhOutSmtNlGPvsXiyAwpGUw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="FACEB.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="fd7967d3d77f402418986be524c136611c2b43ff" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CUeggJiVDzt4N38yW+86MmNECu0QlkGXp73naknn3Pk=</DigestValue></Reference></SignedInfo><SignatureValue>EwawbilD/qvgfVSyLXNMVzrGEJ9otg/CuzT5JKNprQEPs3hlUpQ3Tkgfns6G8qQNNwPTBRfRx7SxVwFKCp3yea2kTUBsIR6qAu36UICIdqtgv/GBweg5VK/fkZcsVSVXQNVdO8t0fO/eXW5jehkQRpBesg1y9oNf/c04q6cyDsU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rtXh+b/Ios9nmQsmtJG2ZH+h18VWgi1NYxB3TbVgNItm0i1I0haV44i3U26XV5zCqeIrGWJyuF2dgIhOXIvyGNrJtqd0x8+oX2x9uzzmdrSDJT6D/YkXLstNTOg3JGOAXsw4w19UViw2hMA6ejkgA250OEfEGHzXwtIE2LnDdHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f9dce7496ae7bda797419610ed0a4463323aef5b327f37783b0f959880a04709" Description="" Url=""><as:assemblyIdentity name="FACEB.exe" version="1.0.0.0" publicKeyToken="39a08ca04310ef02" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mXBz4B78MYGCB0U4Q4b51ZBR9fZaJ1WVHDp/Rl3KyJc=</DigestValue></Reference></SignedInfo><SignatureValue>Yb5z0TKqIkkJ7LQwoCfoCNz2DW0PKmETmr2CpMt/JVemmeZz0sXbkSA6xIjA5THWoxPwjb2fPsJDxqnvC6R820awPSaFvyRZk1G5S9pGfmWceiRvRCf+GM6j1hZfuS3vZCjaHFvX70Nkp9ask3N0aYWHkh8GaVM/n1QT86Oktho=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rtXh+b/Ios9nmQsmtJG2ZH+h18VWgi1NYxB3TbVgNItm0i1I0haV44i3U26XV5zCqeIrGWJyuF2dgIhOXIvyGNrJtqd0x8+oX2x9uzzmdrSDJT6D/YkXLstNTOg3JGOAXsw4w19UViw2hMA6ejkgA250OEfEGHzXwtIE2LnDdHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQGMEzXqNlLaNJEDNR8IIogjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwOTI4MjA0MTM3WhcNMTkwOTI5MDI0MTM3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK7V4fm/yKLPZ5kLJrSRtmR/odfFVoItTWMQd021YDSLZtItSNIWleOIt1Nul1ecwqniKxlicrhdnYCITlyL8hjaybandMfPqF9sfbs85na0gyU+g/2JFy7LTUzoNyRjgF7MOMNfVFYsNoTAOno5IANudDhHxBh818LSBNi5w3R1AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAE17vh16Oigd8FxXyUSvqtb+GVXZEEkXE7MwkpTsYLtp7jg2ItNMYGXybSG6muVKtSKf2/yvew0JxKGoGdRDj/6HDokl9g9Vl/Sm/v53QThR1hZ7VFI/h/9p7iOEAj0lGyhs/ZkOu4HuTXCD3JiT5SAa4ZnhI/Ls6N+ANYZGUtAQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

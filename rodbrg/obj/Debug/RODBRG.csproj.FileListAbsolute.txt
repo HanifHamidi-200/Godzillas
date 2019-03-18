@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\bin\Debug\RODBRG.exe.config
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\bin\Debug\RODBRG.exe
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\bin\Debug\RODBRG.pdb
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.Form1.resources
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.Properties.Resources.resources
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.exe
+C:\Users\hanif\Desktop\diagonalshaft\RODBRG\obj\Debug\RODBRG.pdb

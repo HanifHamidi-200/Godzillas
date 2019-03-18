@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OVOLV.exe" version="1.0.0.0" publicKeyToken="ac0687d22db3412b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F spark.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OVOLV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OVOLV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OVOLV.exe" size="108000">
+      <assemblyIdentity name="OVOLV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>JpSUyeR8BMzRnhT27jqU+gZ558BFNjPpQEMVZkJOBXA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="F spark.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+EPQz208gwlcrv8qk3lmfrGWIcTsNUq2x0gU1S0rIeE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F blank.png" size="471">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3J9p5nPWcw7CiZTS2blDyGtGbeec/vdi8SNzkAXIsS8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F col1.png" size="912">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YIg/weHf2WygGBN4RLUzI/FCAtQznAPqsP0CR2qmLRg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F col2.png" size="912">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Vi+IgP7l7ufWyfuNSbDBv3Q2kuy5ct1fIopMhftW9F8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F col3.png" size="884">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sDamKzQg2vpiKvuWBQ3odX7fIYm2/wtSpRO9Rg2DgN4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F evolved1.png" size="1074">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yiu4WLXwvhHL5W+HSmW8EZBJTscqCTB+xy9GDU7i2KY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F evolved2.png" size="1074">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDG2O8EAZvvbjk66Pxnb/igeDl6JX9yG5DMgH94UkVw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F evolved3.png" size="1028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>u6h2XlkBzc+PI4sz9ZC4VCpUUGO6y0PYxbaxA2E83U4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F NullGate.png" size="1841">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9MuvX3rdlinvaTxynoaRebcKSOXXapvJkGjz5Y/a1lg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icons\F trap.png" size="2166">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aq2CCyZf9D3i5pFLqgMFWTKsuC03AoFs9mJclpQYLdA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="OVOLV.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="57346905146753d0f4a0a88de9ab1b84ae14bde7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rLvKeRg+9ujmV5rQvwl7h/k6h0J7og9kwFDMziuRnQU=</DigestValue></Reference></SignedInfo><SignatureValue>Cc/JxBX2HT8VI4XgdIurKxp8ksqbSb7510vkT/W4MV9mCF/62ICcSd3HNaH0btVxt+tjf7sMo7PeBkpADgFlePiA/gvgXAw944pDRF/2+iH3jThjIJxMXlgqO9qlkPcZJbx9Anv0Yf4VDiV96UMlvcs06zqNS+YvdtwC2EUf9tc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>laDZ1xA+OBzCWv4LblkCzhhdDhfh4+NhSym/rwq3GYQCvLWjnudONlJ6HT88TN5r+46A/O2szXeFlWJRVods/ahy4QkwJdwSHbdjCRUu4UMe3z3x3iJqtmpgH99xVK1O12r3eBkx98LQeVeBvmU/IgN2FznDs81brUJ8GtAPrKk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="059d912bcecc50c0640fa27b42873af9877b09bfd09a57e6e8f63e1879cabbac" Description="" Url=""><as:assemblyIdentity name="OVOLV.exe" version="1.0.0.0" publicKeyToken="ac0687d22db3412b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+n9AMTVlLqDobF/0uiTpAl/13wqH/+Nk/l92S91ShlE=</DigestValue></Reference></SignedInfo><SignatureValue>d0vD/bXJnyNtTVo0lNkMnktsKeWXyjajw+EMyMunQf5NiwcRRzTj5nqKUmccYFSk1vXhVEIzBFzNnSmN/pF/PxDLy0YA/XXMl40kXXNUnm1ZmDdqjaahoOtGFTEAki1/zolZ70qTDTiR9KKiRxPLgKFyZRu19ikky0QnGFESuf0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>laDZ1xA+OBzCWv4LblkCzhhdDhfh4+NhSym/rwq3GYQCvLWjnudONlJ6HT88TN5r+46A/O2szXeFlWJRVods/ahy4QkwJdwSHbdjCRUu4UMe3z3x3iJqtmpgH99xVK1O12r3eBkx98LQeVeBvmU/IgN2FznDs81brUJ8GtAPrKk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQF4X5J45LGJhM6R3iJvI6bDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwOTIzMDgyOTUyWhcNMTkwOTIzMTQyOTUyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJWg2dcQPjgcwlr+C25ZAs4YXQ4X4ePjYUspv68KtxmEAry1o57nTjZSeh0/PEzea/uOgPztrM13hZViUVaHbP2ocuEJMCXcEh23YwkVLuFDHt898d4iarZqYB/fcVStTtdq93gZMffC0HlXgb5lPyIDdhc5w7PNW61CfBrQD6ypAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZYS7mqdSKu/APwCS+OSiHN2drvfOyn0jbaGKQjwbBr2S70kFEZJhaQ4XCvpKJSO9PR48Eb29GqCQ/iCAp9vbIB8EdBYxyAEFsWc7DnGxUBO9nBRmwZrgyPDNb+wsvta+XWVCQyKbe4EDATmUfs5t+CoazUlzj/FejxPICREHTNQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

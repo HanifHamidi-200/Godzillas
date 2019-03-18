@@ -1,0 +1,6 @@
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\bin\Debug\PeekDLL.pdb
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\obj\Debug\PeekDLL.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\obj\Debug\PeekDLL.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\obj\Debug\PeekDLL.csproj.CopyComplete
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\obj\Debug\PeekDLL.dll
+C:\Users\hanif\source\repos\MWORKS\PeekDLL\obj\Debug\PeekDLL.pdb

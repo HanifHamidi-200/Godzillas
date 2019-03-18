@@ -1,0 +1,10 @@
+C:\Users\hanif\source\CantelliPerelli\PASSAC\bin\Debug\PASSAC.exe.config
+C:\Users\hanif\source\CantelliPerelli\PASSAC\bin\Debug\PASSAC.exe
+C:\Users\hanif\source\CantelliPerelli\PASSAC\bin\Debug\PASSAC.pdb
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.csprojAssemblyReference.cache
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.Form1.resources
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.Properties.Resources.resources
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.csproj.GenerateResource.cache
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.exe
+C:\Users\hanif\source\CantelliPerelli\PASSAC\obj\Debug\PASSAC.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\diagonalshaft\APEX\bin\Debug\APEX.exe.config
+C:\Users\hanif\Desktop\diagonalshaft\APEX\bin\Debug\APEX.exe
+C:\Users\hanif\Desktop\diagonalshaft\APEX\bin\Debug\APEX.pdb
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.Form1.resources
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.Properties.Resources.resources
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.exe
+C:\Users\hanif\Desktop\diagonalshaft\APEX\obj\Debug\APEX.pdb

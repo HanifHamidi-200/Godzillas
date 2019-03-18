@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\SENST\bin\Debug\SENST.exe.config
+C:\Users\hanif\source\repos\SENST\bin\Debug\SENST.exe
+C:\Users\hanif\source\repos\SENST\bin\Debug\SENST.pdb
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.Form1.resources
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.Properties.Resources.resources
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.exe
+C:\Users\hanif\source\repos\SENST\obj\Debug\SENST.pdb

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BLOGG.exe" version="1.0.0.0" publicKeyToken="96ae969069b8886d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F BoulderLogic.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BLOGG" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BLOGG.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BLOGG.exe" size="38368">
+      <assemblyIdentity name="BLOGG" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>P8F0ZcoctIvSsd2QgrWR3ptutkSCkgTo/UpkUbMp3Fo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BLOGG.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="F BoulderLogic.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>piNGcUr+LugKtl1hhLr7MhOutSmtNlGPvsXiyAwpGUw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="e0d2a56570c2c785d4c128a7941c3bbd00c8f620" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>AhP3e3TqY5Sdf0LrXl6/SCFKXaJVK2gP20wLrfIjmoA=</DigestValue></Reference></SignedInfo><SignatureValue>s0XiIsgLE2dsHHb4M6GLDARLqItFqbSPAX2CcJE2L+HB95zVyXpB144BIICWx5bycoKQFotb3EaA9Lq+XXfXGT9woeEUNhWkezPcbuSmnkMpc43vVfgjMdVZ/b3dcUNQA8Tx2uESbncCo2+EMX8Nq5wgQsNtPmKo7/l61Ynpry8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5591+6Rxp7bude8xgApu8igmFVz0UOa/NxXC1238OyfsiP5do8Tb3hiVeGpgJduklmQx5TanYKtw3Q304ELigP3l1ifozXP53M0vrCYGYewiHW5cS2MA+cI63MEaU8gKPM7BC4YhSyuHfzQZ06yd1vJfJ4pqOXKqmAXmETAGM8k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="809a23f2ad0b4cdb0f682b55a25d4a2148bf5e5eeb427f9d9463ea747bf71302" Description="" Url=""><as:assemblyIdentity name="BLOGG.exe" version="1.0.0.0" publicKeyToken="96ae969069b8886d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hWKukZnvvBLsL5MNuXNp1e+9IxxO6rT4B3Or04IFZNU=</DigestValue></Reference></SignedInfo><SignatureValue>g8uUq1MxeWw25iqjEWbWnYjaXa3c1aN/GHmK1EZcu2GafIyRcZRlFI2HQuZUP8yrC914+Flllt+BoE5I2XxAC3iylxl9ytQPiYJx38U+4lpWn7wWdVP/oBtIyaQMQRINhAL5fOQodRWPQkRj45eMByt0jlriWoJAy9WaHacX7G4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5591+6Rxp7bude8xgApu8igmFVz0UOa/NxXC1238OyfsiP5do8Tb3hiVeGpgJduklmQx5TanYKtw3Q304ELigP3l1ifozXP53M0vrCYGYewiHW5cS2MA+cI63MEaU8gKPM7BC4YhSyuHfzQZ06yd1vJfJ4pqOXKqmAXmETAGM8k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQUx2qGLTMgKVF/BLsaid6gzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwOTI4MjAxNjUxWhcNMTkwOTI5MDIxNjUxWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOefdfukcae27nXvMYAKbvIoJhVc9FDmvzcVwtdt/Dsn7Ij+XaPE294YlXhqYCXbpJZkMeU2p2CrcN0N9OBC4oD95dYn6M1z+dzNL6wmBmHsIh1uXEtjAPnCOtzBGlPICjzOwQuGIUsrh380GdOsndbyXyeKajlyqpgF5hEwBjPJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAuoHYytIHw7zz1Tx9xA8Lkf8hMpNX2UHXyYhY4diB0zYzoK1yS8f01i2eUBFYeY7Q8MrF9j2VcVdgIFIRl3Ph9F0ldYcpySmBf9qMFpyNwlH7bSjt1ymcRNIAvRsayrNRjJmfgs+NQimvZ3k/vpbfv4vZoeDzZU8ejj2nqsZr60k=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

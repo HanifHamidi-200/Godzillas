@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.Form1.resources
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.Properties.Resources.resources
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MGW\MGW\bin\Debug\MGW.exe.config
+C:\Users\hanif\source\repos\MGW\MGW\bin\Debug\MGW.exe
+C:\Users\hanif\source\repos\MGW\MGW\bin\Debug\MGW.pdb
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.exe
+C:\Users\hanif\source\repos\MGW\MGW\obj\Debug\MGW.pdb

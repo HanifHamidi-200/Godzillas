@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\bin\Debug\4ROWED.exe.config
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\bin\Debug\4ROWED.exe
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\bin\Debug\4ROWED.pdb
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\4ROWED.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\_4ROWED.Form1.resources
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\_4ROWED.Properties.Resources.resources
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\4ROWED.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\4ROWED.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\4ROWED.exe
+C:\Users\hanif\Desktop\diagonalshaft\4ROWED\obj\Debug\4ROWED.pdb

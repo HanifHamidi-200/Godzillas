@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\RMMR\RMMR\bin\Debug\RMMR.exe.config
+C:\Users\hanif\source\repos\RMMR\RMMR\bin\Debug\RMMR.exe
+C:\Users\hanif\source\repos\RMMR\RMMR\bin\Debug\RMMR.pdb
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.Form1.resources
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.Properties.Resources.resources
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.exe
+C:\Users\hanif\source\repos\RMMR\RMMR\obj\Debug\RMMR.pdb

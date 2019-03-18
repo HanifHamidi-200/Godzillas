@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\bin\Debug\VEGEFC.exe.config
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\bin\Debug\VEGEFC.exe
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\bin\Debug\VEGEFC.pdb
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.Form1.resources
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.Properties.Resources.resources
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.exe
+C:\Users\hanif\source\repos\VEGEFC\VEGEFC\obj\Debug\VEGEFC.pdb

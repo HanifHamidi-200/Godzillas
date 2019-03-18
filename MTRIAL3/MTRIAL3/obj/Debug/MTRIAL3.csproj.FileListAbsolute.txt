@@ -1,0 +1,16 @@
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\bin\Debug\MTRIAL3.exe.config
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\bin\Debug\MTRIAL3.exe
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\bin\Debug\MTRIAL3.pdb
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.Form1.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub1.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub2.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub3.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub4.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub5.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.Properties.Resources.resources
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.exe
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.pdb
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\diagonalshaft\MTRIAL3\MTRIAL3\obj\Debug\MTRIAL3.fSub6.resources

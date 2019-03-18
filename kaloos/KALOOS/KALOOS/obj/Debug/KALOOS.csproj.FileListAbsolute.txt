@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\KALOOS\KALOOS\bin\Debug\KALOOS.exe.config
+C:\Users\hanif\source\repos\KALOOS\KALOOS\bin\Debug\KALOOS.exe
+C:\Users\hanif\source\repos\KALOOS\KALOOS\bin\Debug\KALOOS.pdb
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.Form1.resources
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.Properties.Resources.resources
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.exe
+C:\Users\hanif\source\repos\KALOOS\KALOOS\obj\Debug\KALOOS.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.csprojAssemblyReference.cache
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.Form1.resources
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.Properties.Resources.resources
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.csproj.GenerateResource.cache
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\CantelliPerelli\LPOKER\bin\Debug\LPOKER.exe.config
+C:\Users\hanif\source\CantelliPerelli\LPOKER\bin\Debug\LPOKER.exe
+C:\Users\hanif\source\CantelliPerelli\LPOKER\bin\Debug\LPOKER.pdb
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.exe
+C:\Users\hanif\source\CantelliPerelli\LPOKER\obj\Debug\LPOKER.pdb

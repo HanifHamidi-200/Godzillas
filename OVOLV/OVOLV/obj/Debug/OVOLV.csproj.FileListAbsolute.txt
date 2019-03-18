@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\OVOLV\OVOLV\bin\Debug\OVOLV.exe.config
+C:\Users\hanif\source\repos\OVOLV\OVOLV\bin\Debug\OVOLV.exe
+C:\Users\hanif\source\repos\OVOLV\OVOLV\bin\Debug\OVOLV.pdb
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.Form1.resources
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.Properties.Resources.resources
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.exe
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.pdb
+C:\Users\hanif\source\repos\OVOLV\OVOLV\bin\Debug\OVOLV.exe.manifest
+C:\Users\hanif\source\repos\OVOLV\OVOLV\bin\Debug\OVOLV.application
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.exe.manifest
+C:\Users\hanif\source\repos\OVOLV\OVOLV\obj\Debug\OVOLV.application

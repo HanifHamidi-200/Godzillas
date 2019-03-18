@@ -1,0 +1,12 @@
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\bin\Debug\CSHUFF.exe.config
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\bin\Debug\CSHUFF.exe
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\bin\Debug\CSHUFF.pdb
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.csprojAssemblyReference.cache
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.Form1.resources
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.Properties.Resources.resources
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.csproj.GenerateResource.cache
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.exe
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.pdb
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.fSub1.resources
+C:\Users\hanif\source\CantelliPerelli\CSHUFF\obj\Debug\CSHUFF.fSub2.resources

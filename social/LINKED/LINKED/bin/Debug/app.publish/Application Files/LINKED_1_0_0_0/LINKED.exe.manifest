@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LINKED.exe" version="1.0.0.0" publicKeyToken="949b78b79d67b618" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F BoulderLogic.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LINKED" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LINKED.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LINKED.exe" size="31200">
+      <assemblyIdentity name="LINKED" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aWC2BjmTeLM54DJ1jz3GNlvc3vdleUgFeWL8k55eOYM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="F BoulderLogic.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>piNGcUr+LugKtl1hhLr7MhOutSmtNlGPvsXiyAwpGUw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="LINKED.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="6d4e846a2babdc2adf3d340d7980edf23b651527" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ERbEkRt8HsoQVYoolhUzpNCdOkcdnuAvFtQETL1qyjg=</DigestValue></Reference></SignedInfo><SignatureValue>PmTXJYa5SB0U9q8E90hEA2loKQV1ZIpcjJulwOnXwci8nQS5nfGnTAxYb5IUT4kZ8TAZQhzqf7r29hJsF9pk6f9KbyKiUbo9sXmQOblYnJWJC1Z8wdIfhcWsGd3H/JLuG8P3hrCMO30A9DZMH0O/Z7VzgL6pVmptHQQQu1Ot1CM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sqyzQBWc/ZetK9QKJ7lxkWBVZeepwKRJBeSkKhZAhxBTIPO6n8WHJYzQlftouQqLbwotIR/dVZimAF4METKaWf6Y0ZwHHLcgw+1ncrZjHxQF+Ba06LAEXZkoWefE9/67uGCtg42VR1CpSbcZqqR6Pu6q3+B8lRhPfh4Qy74+/U0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="38ca6abd4c04d4162fe09e1d473a9dd0a4331596288a5510ca1e7c1b91c41611" Description="" Url=""><as:assemblyIdentity name="LINKED.exe" version="1.0.0.0" publicKeyToken="949b78b79d67b618" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/9sHezE0HipRDLwhavAtalKgHPVnb4CNpfdS6Fots3k=</DigestValue></Reference></SignedInfo><SignatureValue>MNBdYNj7eI6HRYALadBp4njz5cs5zaPOjy9YMEmntaCgduF5l8AFoPPKUFkglxiLsftTWqPAZ8SAs88weXf+YJYE/O8io7+e5KgfWJtitf3HwEqRciSY+WZUTibmSlxkDbV7j9SLc/EyoV+gthNhidtIWi257AQviZBxEvCRysY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sqyzQBWc/ZetK9QKJ7lxkWBVZeepwKRJBeSkKhZAhxBTIPO6n8WHJYzQlftouQqLbwotIR/dVZimAF4METKaWf6Y0ZwHHLcgw+1ncrZjHxQF+Ba06LAEXZkoWefE9/67uGCtg42VR1CpSbcZqqR6Pu6q3+B8lRhPfh4Qy74+/U0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQPHgx67OXZJNJJ9aJcFd7uTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwOTI4MjEwNjM1WhcNMTkwOTI5MDMwNjM1WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALKss0AVnP2XrSvUCie5cZFgVWXnqcCkSQXkpCoWQIcQUyDzup/FhyWM0JX7aLkKi28KLSEf3VWYpgBeDBEymln+mNGcBxy3IMPtZ3K2Yx8UBfgWtOiwBF2ZKFnnxPf+u7hgrYONlUdQqUm3Gaqkej7uqt/gfJUYT34eEMu+Pv1NAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAiW6UgAfsPIn2kjDRt2m/eBG10WBXwVhEaibCxzJUjXB9noOQu98NHXZGdeFXVxqBsUfyOxwF3QxstJqJNieJXVD+pqt4SgNf/765+2cI0eMyDp8OwZ1jNrWRDfffR+ilNzif7DDJxxOdazYMb1p7gh1BhcACYB9W89u6NBi65ek=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

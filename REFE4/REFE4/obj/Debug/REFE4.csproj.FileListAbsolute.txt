@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\REFE4\REFE4\bin\Debug\REFE4.exe.config
+C:\Users\hanif\source\repos\REFE4\REFE4\bin\Debug\REFE4.exe.manifest
+C:\Users\hanif\source\repos\REFE4\REFE4\bin\Debug\REFE4.application
+C:\Users\hanif\source\repos\REFE4\REFE4\bin\Debug\REFE4.exe
+C:\Users\hanif\source\repos\REFE4\REFE4\bin\Debug\REFE4.pdb
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.Form1.resources
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.Properties.Resources.resources
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.exe.manifest
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.application
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.exe
+C:\Users\hanif\source\repos\REFE4\REFE4\obj\Debug\REFE4.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.Form1.resources
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.Properties.Resources.resources
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MWORKS\MWORKS\bin\Debug\MWORKS.exe.config
+C:\Users\hanif\source\repos\MWORKS\MWORKS\bin\Debug\MWORKS.exe
+C:\Users\hanif\source\repos\MWORKS\MWORKS\bin\Debug\MWORKS.pdb
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.exe
+C:\Users\hanif\source\repos\MWORKS\MWORKS\obj\Debug\MWORKS.pdb
